@@ -1,6 +1,6 @@
 {
   "name": "@kembec/tailwindcss-badge-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tailwind CSS plugin",
   "main": "./src/index.js",
   "scripts": {
@@ -24,7 +24,7 @@
 	"bugs": {
 		"url": "https://github.com/Kembec/tailwindcss-badge-plugin/issues"
 	},
-	"homepage": "https://tailwind.kembec.com",
+	"homepage": "https://tailwind.kembec.com/plugins/badge-plugin/",
   "devDependencies": {
     "@babel/core": "^7.23.9",
     "@babel/preset-env": "^7.23.9",
